@@ -56,9 +56,9 @@ career-profile:
       On the other hand, I'm also fascinated by the uniquely artistic expressiveness that games can achieve. I do believe the immersive experience that games bring is not just from the narrative or visual design, but essentially from the pursuit of presenting the mode of operation for an ideal world. The gamer's interaction with the virtual world will create an alternative reality. In terms of constructing an engaging world, any part of the creation should not be neglected whether it's programming or modeling, screenwriting or artistic designing. I don't have the pride to boast that I have mastered some skills, but I did try a lot of things. When I was an undergraduate, I served as the vice president of the university's graphic design organization, responsible for the publicity design and publication of college journals. I also participated in the curating of some grand events or small activities when I worked at the gym of the university. During the summer vacation, as an intern of a media company, I took part in the production of a documentary for CCTV, mainly responsible for the preliminary process including shooting schedule arrangement, outline compilation, and scripting. In addition, I have tried as much as possible to expand the diversity of my course content in the university. I learned some knowledge of film theory and skills for film shooting and post-production; I did some studies on game theory and game design plus gained very basic knowledge of how to model and animate with Maya; I had analyzed the branding strategy of some big companies, the operation of social media platforms and curated a social media campaign; I had made some short films and a podcast; Actually, I even had studied literature for few years. Now, I am planning to start learning digital art as a hobby given that I am about to finish my postgraduate studies. Anyway, as I mentioned all my experiences have not made me an expert in any specific skill, but have allowed me to behold the differences and characteristics of various fields and people working in. By doing so, I can keenly capture key points and make judgments based on my comprehensive knowledge in media production when talking with people in different industries. Besides, helping talented people to reach their full potential through effective management is also valuable and meaningful to me. I have the confidence to face diverse challenges and expand my knowledge in economics and management, after all, getting out of my comfort zone is something that I can brag that I got a knack for. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: HBA in English and Communication Studies
+      university: University of Liverpool
+      time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +67,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MA in Digital Communication and Culture
+      university: The University of Sydney
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,91 +79,41 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administration assistant (internship)
+      time: 2017.8 - 2018.2
+      company: Physical Education Centre of Xi'an Jiaotong-Liverpool University, Suzhou
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Assist administrative staff in daily affairs and event planning.
+          - Financial affairs
+          - Operating activities
+          - Student Clubs/School teams Management
+          - Advertisement design/ Graphic design
+    - role: Assistant producer (intership)
+      time: 2019.6 - 2019.8
+      company: HaorealFilm, Kunming
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Participate in the pre-production of documentary and help producer to cope with regualr affairs.
+          - Background information research (field research and interviews)
+          - Filming outline and scripting
+          - Breifly budgeting
+          - Shooting schedule
+    - role: Plantform manager
+      time: 2018.9 - 2018.10
+      company: Linx, Suzhou
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Several friends and I launched an online trading software through the Wechat platform, which is targeted to the freshmen from all the colleges in our high educational district.
+        We mainly sell some daily necessities and household appliances (like small refrigerators, washing machines and routers). My friends did programming and interactive design, and I was responsible for
+        publicity and personnel management. It was the first time for me to experience and practice concepts unrelated to my major, 
+        such as supply chain management, personnel recruitment, delivery, accounting and so on. Luckily, we didn't make any big mistakes and earned a fair amount of income in the end. It may not be a formal work experience, but I did learn a lot.
+          - Accounting 
+          - Staffs recruitment and management
+          - Product photography
+          - Poster and leaflet design
+          - Selling
+          - Delivery
+          - Customer service
+          - Advertising (Online and Offline)
+          - Product quality inspecting
 
 skills:
     title: Skills &amp; Proficiency
