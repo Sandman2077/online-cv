@@ -116,30 +116,34 @@ experiences:
           - Product quality inspecting
 
 projects:
-    title: Game experience with Ubisoft' game
+    title: Experience with Ubisoft' Game
     intro: >
-      I mainly play FPS games and I am willing to try type of games with RPG elements.
+      I mainly play FPS and RPG games and I am willing to try other genre. Right now I'm most interested in Just dance and Riders Republic.
     assignments:
       - title: Assassin's Creed series
-        link: "#hook"
-        tagline: " 'Unity' and ‘Syndicate’ are my favourite. I love the epic feel of them."
-
+        link: "#"
+        tagline: 
+        
       - title: For Honour 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
+      - title: Watch dog 2
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: Rainbow Six® Siege
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: The Division series
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline:
+        
+      - title: Hyper Scape
+        link: "#"
+        tagline: 
+        
 skills:
     title: Skills &amp; Proficiency
 
@@ -150,17 +154,17 @@ skills:
       - name: Adobe Premiere Pro (for filmmaking)
         level: 80%
 
-      - name: Adobe Audition
+      - name: Social media account operation
+        level: 65%
+
+      - name: Scripting
         level: 75%
 
       - name: Adobe Photoshop
         level: 75%
 
-      - name: Writting and Text Translation(English to Chinese)
-        level: 85%
-
-      - name: Social media account operation
-        level: 65%
+      - name: Adobe Audition
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
