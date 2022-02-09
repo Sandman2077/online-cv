@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: fakrux077a@163.com
-    phone: +8618962557546
-    citizenship: the People's Republic of China (PRC)
+    phone: +86 18962557546
+    citizenship: the People's Republic of China
     website:  #do not add http://
     linkedin: 
     xing: 
@@ -35,9 +35,6 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Video Game
         link:
@@ -48,18 +45,16 @@ sidebar:
       - item: Films/Animation
         link:
         
-      - item: Digital Painting
+      - item: Digital Art
         link:
 
 career-profile:
     title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am Yintao Liu, a postgraduate student majoring in Digital Communication and Culture at the University of Sydney. I've been interested in Ubisoft Graduate Program since I was just entering college. After years of study, I believe I am qualified for applying for this program. I am really looking forward to having an opportunity to work in Chengdu studio as a project manager. Although I am not from a business-related major and I have to admit that I may not be competitive in economics expertise, my education experience enriched me with profound insights and comprehensive knowledge about the current media industry, which will be crucial, I believe, to helping me communicate effectively with people from different fields, such as content creators on a streaming platform, influencers on social media, or brand managers from the fashion industry, etc. So far as I am observed, game, as same as any niche medium form, the boundary between itself and the mainstream media is blurring along with the technology development. Not only does this mean that game consumption expanded from PC or console to mobile device, but more important is all of the social change arising therefrom, such as consumer groups, consumption patterns, and mainstream social attitudes towards games, which inevitably leads to as production side must seize the pulse of the change to make strategic adjustments on the production, advertisement, and cooperation with different media institutions.
+      
+      On the other hand, I'm also fascinated by the uniquely artistic expressiveness that games can achieve. I do believe the immersive experience that games bring is not just from the narrative or visual design, but essentially from the pursuit of presenting the mode of operation for an ideal world. The gamer's interaction with the virtual world will create an alternative reality. In terms of constructing an engaging world, any part of the creation should not be neglected whether it's programming or modeling, screenwriting or artistic designing. I don't have the pride to boast that I have mastered some skills, but I did try a lot of things. When I was an undergraduate, I served as the vice president of the university's graphic design organization, responsible for the publicity design and publication of college journals. I also participated in the curating of some grand events or small activities when I worked at the gym of the university. During the summer vacation, as an intern of a media company, I took part in the production of a documentary for CCTV, mainly responsible for the preliminary process including shooting schedule arrangement, outline compilation, and scripting. In addition, I have tried as much as possible to expand the diversity of my course content in the university. I learned some knowledge of film theory and skills for film shooting and post-production; I did some studies on game theory and game design plus gained very basic knowledge of how to model and animate with Maya; I had analyzed the branding strategy of some big companies, the operation of social media platforms and curated a social media campaign; I had made some short films and a podcast; Actually, I even had studied literature for few years. Now, I am planning to start learning digital art as a hobby given that I am about to finish my postgraduate studies. Anyway, as I mentioned all my experiences have not made me an expert in any specific skill, but have allowed me to behold the differences and characteristics of various fields and people working in. By doing so, I can keenly capture key points and make judgments based on my comprehensive knowledge in media production when talking with people in different industries. Besides, helping talented people to reach their full potential through effective management is also valuable and meaningful to me. I have the confidence to face diverse challenges and expand my knowledge in economics and management, after all, getting out of my comfort zone is something that I can brag that I got a knack for. 
+
 education:
     - degree: MSc in Computer Science
       university: University of London
