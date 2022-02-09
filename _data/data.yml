@@ -57,7 +57,7 @@ career-profile:
 
 education:
     - degree: HBA in English and Communication Studies
-      university: University of Liverpool
+      university: Xi'an Jiaotong-Liverpool University
       time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -79,7 +79,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Administration assistant (internship)
+    - role: Administration Assistant (Internship)
       time: 2017.8 - 2018.2
       company: Physical Education Centre of Xi'an Jiaotong-Liverpool University, Suzhou
       details: |
@@ -88,7 +88,7 @@ experiences:
           - Operating activities
           - Student Clubs/School teams Management
           - Advertisement design/ Graphic design
-    - role: Assistant producer (intership)
+    - role: Assistant Producer (Intership)
       time: 2019.6 - 2019.8
       company: HaorealFilm, Kunming
       details: |
@@ -97,7 +97,7 @@ experiences:
           - Filming outline and scripting
           - Breifly budgeting
           - Shooting schedule
-    - role: Plantform manager
+    - role: Plantform Manager
       time: 2018.9 - 2018.10
       company: Linx, Suzhou
       details: |
@@ -118,30 +118,30 @@ experiences:
 projects:
     title: Experience with Ubisoft' Game
     intro: >
-      I mainly play FPS and RPG games and I am willing to try other genre. Right now I'm most interested in Just dance and Riders Republic.
+      I mainly play FPS and RPG games but I am willing to try other genre. Right now I'm most interested in Just dance and Riders Republic.
     assignments:
       - title: Assassin's Creed series
-        link: "#"
+        link: 
         tagline: 
         
       - title: For Honour 
-        link: "#"
+        link: 
         tagline: 
 
-      - title: Watch dog 2
-        link: "#"
+      - title: Watch Dog 2
+        link: 
         tagline: 
 
       - title: Rainbow Six® Siege
-        link: "#"
+        link: 
         tagline: 
 
       - title: The Division series
-        link: "#"
+        link:
         tagline:
         
       - title: Hyper Scape
-        link: "#"
+        link: 
         tagline: 
         
 skills:
