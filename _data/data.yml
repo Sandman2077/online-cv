@@ -115,27 +115,52 @@ experiences:
           - Advertising (Online and Offline)
           - Product quality inspecting
 
+projects:
+    title: Game experience with Ubisoft' game
+    intro: >
+      I mainly play FPS games and I am willing to try type of games with RPG elements.
+    assignments:
+      - title: Assassin's Creed series
+        link: "#hook"
+        tagline: " 'Unity' and ‘Syndicate’ are my favourite. I love the epic feel of them."
+
+      - title: For Honour 
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Adobe After effect (for filmmaking)
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Adobe Premiere Pro (for filmmaking)
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Adobe Audition
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Adobe Photoshop
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: Writting and Text Translation(English to Chinese)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Social media account operation
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
